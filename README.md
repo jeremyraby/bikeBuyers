@@ -7,3 +7,7 @@ This project is a tutorial by Alex the Analyst for working with Excel. The data 
 ### Pivot Tables
 
 This project included several pivot tables I used to compare multiple variables in the data. I am becoming much more comfortable using pivot tables thanks to the work done.
+
+### Charting
+
+I used a couple of new charts in this project: stacked bar and stacked column charts. Though I still don't really *like* these types of charts, as I find them a bit cluttered, I do see their utility in displaying certain data.

@@ -14,4 +14,4 @@ I used a couple of new charts in this project: stacked bar and stacked column ch
 
 ## What I Found Interesting
 
-While working through the tutorial with Alex, I noticed that bike sales generally dropped as the buyer's commute increased (from 0-10+ miles), but there was a slight increase in sales for commutes of 2-5 miles.
+While working through the tutorial with Alex, I noticed that bike sales generally dropped as the buyer's commute increased (from 0-10+ miles), but there was a slight increase in sales for commutes of 2-5 miles. Comparing commutes with several factors such as income and car ownership led me to the conclusion that sales to commuters of 0-1 miles were most likely out of necessity due to insufficient funds to purchase other transportation while sales to farther commuters was more likely to be for enjoyment. Those commuting 2-5 miles, however, seem to be in the income bracket in which they can choose to commute by bike as opposed to those who have only 1-2 miles to ride. The decline in sales to these middle-distance commuters seems to be caused more by an assumed lack of time to choose bicycle commuting.

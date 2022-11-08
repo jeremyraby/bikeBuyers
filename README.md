@@ -11,3 +11,7 @@ This project included several pivot tables I used to compare multiple variables 
 ### Charting
 
 I used a couple of new charts in this project: stacked bar and stacked column charts. Though I still don't really *like* these types of charts, as I find them a bit cluttered, I do see their utility in displaying certain data.
+
+## What I Found Interesting
+
+While working through the tutorial with Alex, I noticed that bike sales generally dropped as the buyer's commute increased (from 0-10+ miles), but there was a slight increase in sales for commutes of 2-5 miles.
